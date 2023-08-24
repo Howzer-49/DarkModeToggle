@@ -1,0 +1,2 @@
+This is a basic dark mode toggle button that is purely aesthetic
+The browser stores the attribute locally so dark mode persists after reloading
